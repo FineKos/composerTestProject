@@ -1,6 +1,6 @@
 {
 
-    "name": "kedrya/composerTestPackage",
+    "name": "kedrya/composer-test-package",
     "description": "A package with bad namespace",
     "require": {
         "php": ">=5.3.0",
