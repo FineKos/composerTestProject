@@ -13,6 +13,6 @@
 
     "autoload": {
         "psr-4": {"Myspace\\": "src/"}
-    }
-
+    },
+    "minimum-stability": "dev"
 }
