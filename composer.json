@@ -7,9 +7,12 @@
         "monolog/monolog": "1.16"
     },
 
-    "require": {
-        "monolog/monolog": "1.16"
-    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/FineKos/composerTestProject.git"
+        }
+    ],
 
     "autoload": {
         "psr-4": {"Myspace\\": "src/"}
